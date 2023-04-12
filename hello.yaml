@@ -2,4 +2,6 @@ text: hey, let me tell you something
 link:
   - relates:10433
   - 4123
-more: http://github.com/
+more:
+  - more: http://github.com/
+  - additional: see here
